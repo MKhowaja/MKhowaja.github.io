@@ -1,5 +1,9 @@
-.navbar {
-	background-color: ##0A1F4A;
+.navbar-default {
+	background-color: #FFFFFF;
+}
+
+.navbar-inverse {
+	background-color: #0A1F4A;
 }
 
 .navbar-default .navbar-collapse .navbar-nav > li > a {
